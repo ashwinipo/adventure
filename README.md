@@ -1,2 +1,2 @@
-# adventure
-Web dev project for MMP100
+# myOwnAdventure
+an html and css project for mmp
